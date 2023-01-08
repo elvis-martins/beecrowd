@@ -1,0 +1,1 @@
+select name from customers join legal_person on id = id_customers
