@@ -1,0 +1,1 @@
+select people.name, CHAR_LENGTH(people.name) as length from people order by length desc
